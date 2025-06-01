@@ -1,0 +1,1 @@
+The source code for "FAD3QN: A Brain-Inspired Deep Reinforcement Learning Model for Speech Depression Detection". Model training scripts and extended datasets will be uploaded after acceptance of the paper.
